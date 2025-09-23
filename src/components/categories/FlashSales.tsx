@@ -42,7 +42,7 @@ const AllProducts = () => {
       {/* Header */}
       <div className="flex items-center justify-between mb-6">
         <div>
-          <span className="text-[#DB4444] font-semibold">Today's</span>
+          <p className="text-[#DB4444] font-semibold">Todays's</p>
           <h2 className="text-2xl font-bold">Flash Sales</h2>
         </div>
         {/* Timer */}
