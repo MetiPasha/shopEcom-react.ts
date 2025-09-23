@@ -9,10 +9,10 @@ const Header = () => {
           <p className="font-bold text-3xl">shopecom</p>
         </div>
         <div className="flex justify-center align-middle space-x-12 ">
-          <h3>Home</h3>
-          <h3>Contact</h3>
-          <h3>About</h3>
-          <h3>Sign in </h3>
+          <h3 className="cursor-pointer hover:text-cyan-700">Home</h3>
+          <h3 className="cursor-pointer hover:text-cyan-700">Contact</h3>
+          <h3 className="cursor-pointer hover:text-cyan-700">About</h3>
+          <h3 className="cursor-pointer hover:text-cyan-700">Sign in </h3>
         </div>
         <div className="flex justify-center space-x-7">
           <div className="relative">
